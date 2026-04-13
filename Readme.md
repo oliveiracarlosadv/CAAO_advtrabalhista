@@ -1,39 +1,37 @@
-README.md
-# Direito do Trabalho e Processo do Trabalho CAAO
+Readme.md
+# Readme - AdvogadoTrabalhistaCAAO
 
-## Descrição
+**Documento:** Readme.md  
+**Skill:** AdvogadoTrabalhistaCAAO  
+**Data de criação:** 13/04/2026
 
-SKILL profissional voltada para atuação em Direito do Trabalho e Processo do Trabalho, com foco na elaboração de petições jurídicas completas, estratégicas e tecnicamente fundamentadas.
+## Objetivo
+Fornecer uma Skill profissional para suporte em direito do trabalho, com funcionalidades para consultas, geração de peças processuais, pesquisa de jurisprudência e checklists de compliance trabalhista.
 
-## Finalidade
+## Instalação e Importação
+1. Importe o arquivo `SKILL.md` no ambiente Claude compatível.  
+2. Verifique se o nome de importação está como **AdvogadoTrabalhistaCAAO**.  
+3. Abra `index.html` para visualizar a interface de demonstração e instruções de uso.
 
-Permitir a criação de peças processuais trabalhistas com alto padrão profissional, garantindo clareza, organização e efetividade jurídica.
+## Uso
+- **Passo 1 (obrigatório):** Ao iniciar a Skill, responda à pergunta: *Que tipo de SKILL quer criar?* (ex.: "consulta jurídica trabalhista", "gerador de petição inicial", "pesquisa de jurisprudência").
+- **Passo 2:** Forneça os dados solicitados pelo fluxo (nome, vínculo, datas, fatos).
+- **Passo 3:** Revise o documento gerado; todos os documentos conterão cabeçalho com nome do documento, nome da Skill e data, e rodapé com `AdvogadoTrabalhistaCAAO @oliveiracarlosadv`.
 
-## Funcionalidades
+## Modelos Disponíveis
+- Petição Inicial Trabalhista (modelo padrão)
+- Contestação Trabalhista (modelo padrão)
+- Recurso Ordinário (modelo padrão)
+- Pedido de Tutela Antecipada (modelo padrão)
+- Checklist de Compliance Trabalhista
+- Sumário de Jurisprudência por tema
 
-- Redação de petições trabalhistas completas  
-- Estruturação lógica e técnica  
-- Aplicação de fundamentos legais e jurisprudenciais  
-- Padronização profissional de documentos  
+## Exemplo de Cabeçalho e Rodapé em Documentos Gerados
+**Cabeçalho:** Nome do Documento — AdvogadoTrabalhistaCAAO — 13/04/2026  
+**Rodapé:** AdvogadoTrabalhistaCAAO @oliveiracarlosadv
 
-## Como Utilizar
-
-1. Informe o tipo de peça processual  
-2. Forneça os dados das partes  
-3. Descreva os fatos com detalhes  
-4. Indique os pedidos e objetivos  
-
-A SKILL irá gerar automaticamente a peça jurídica completa.
-
-## Público-Alvo
-
-- Advogados  
-- Escritórios de advocacia  
-- Profissionais do Direito  
-
-## Autor
-
-Carlos A. A. Oliveira  
-OAB/PA 33996  
-@oliveiraCarlosADV  
-http://www.oliveiracarlos.adv.br
+## Contato
+Carlos A. A. Oliveira — OAB/PA 33996  
+Telefone: (91) 9 9827-7601  
+Site: http://www.oliveiracarlos.adv.br  
+Instagram: @oliveiraCarlosADV
