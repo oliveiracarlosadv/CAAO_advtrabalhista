@@ -1,4 +1,3 @@
-SKILL.md
 ---
 name: AdvogadoTrabalhistaCAAO
 title: Advogado Trabalhista CAAO
@@ -8,18 +7,17 @@ language: "pt-BR"
 description: "Skill para assistência jurídica trabalhista: consultas, geração de peças, pesquisa de jurisprudência e checklists de compliance trabalhista."
 keywords: ["direito do trabalho","processo do trabalho","compliance trabalhista","petições","jurisprudência"]
 entry_point: "index.html"
-import_name: "AdvogadoTrabalhistaCAAO"
+import_name: "AdvogadoTrabalhistaCAAO_CAAO"
 created_at: "2026-04-13"
 ---
-
 # Advogado Trabalhista CAAO
 
 **Documento:** SKILL.md  
-**Skill:** AdvogadoTrabalhistaCAAO  
+**Skill:** AdvogadoTrabalhistaCAAO_CAAO  
 **Data de criação:** 13/04/2026
 
 ## Visão Geral
-Skill profissional destinada a fornecer suporte jurídico trabalhista com foco em **autoridade**, **clareza** e **confiança institucional**. Projetada para usuários leigos, oferece fluxos de interação para: consultas iniciais, geração de peças processuais padrão, checklists de compliance trabalhista, e busca de jurisprudência consolidada.
+Skill profissional destinada a fornecer suporte jurídico trabalhista com foco em **autoridade**, **clareza** e **confiança institucional**. Projetada para usuários leigos, oferece fluxos de interação para: consultas iniciais, geração de peças processuais padrão, checklists de compliance trabalhista e busca de jurisprudência consolidada.
 
 ## Fluxo Inicial Obrigatório
 1. **Pergunta inicial (obrigatória):** "Que tipo de SKILL quer criar?"  
@@ -48,7 +46,7 @@ Além da atuação profissional, mantém presença ativa nas redes sociais como 
 
 ## Metadados Técnicos
 - Formato de importação: compatível com Claude Skill Loader.
-- Nome de importação sugerido: **AdvogadoTrabalhistaCAAO**
+- Nome de importação sugerido: **AdvogadoTrabalhistaCAAO_CAAO**
 - Versão inicial: 1.0.0
 
 ## Contato Profissional
@@ -58,4 +56,4 @@ Telefone: (91) 9 9827-7601
 Site: http://www.oliveiracarlos.adv.br  
 Instagram: @oliveiraCarlosADV
 
-**Rodapé padrão para documentos gerados:** AdvogadoTrabalhistaCAAO @oliveiracarlosadv
+**Rodapé padrão para documentos gerados:** AdvogadoTrabalhistaCAAO_CAAO @oliveiracarlosadv
